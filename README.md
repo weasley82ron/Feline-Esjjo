@@ -78,7 +78,7 @@ Before starting with the installation, you need to have the following:
 
 ## 🚀 Installation from source
 
-1. Clone the Lavamusic repository:
+1. Clone the Feline-Esjjo repository:
 
 ```bash
 git clone https://github.com/weasley82ron/Feline-Esjjo.git
