@@ -27,7 +27,6 @@
 - Highly Configurable
 - Customizable Prefix
 - Hybrid Command Handling (Slash and Normal Commands)
-- Developed using TypeScript and Discord.js v14
 - Advanced Music System
 - Powerful Search Engine
 - 12 + Music Filters
