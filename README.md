@@ -85,7 +85,7 @@ Before starting with the installation, you need to have the following:
 git clone https://github.com/weasley82ron/Feline-Esjjo.git
 ```
 
-2. Change to the Lavamusic directory:
+2. Change to the Feline-Esjjo directory:
 
 ```bash
 cd Feline-Esjjo
