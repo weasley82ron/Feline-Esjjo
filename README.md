@@ -124,14 +124,14 @@ Generate an invite link for your bot and invite it to your server using the [Dis
 
 ## 📜 Contributing
 
-Thank you for your interest in contributing to Lavamusic! Here are some guidelines to follow when contributing:
+Thank you for your interest in contributing to Feline! Here are some guidelines to follow when contributing:
 
 1. Fork the repository and create a new branch for your feature or bug fix.
 2. Write clean and concise code that follows the established coding style.
 3. Create detailed and thorough documentation for any new features or changes.
 4. Write and run tests for your code.
 5. Submit a pull request with your changes.
-Your contribution will be reviewed by the project maintainers, and any necessary feedback or changes will be discussed with you. We appreciate your help in making Lavamusic better!
+Your contribution will be reviewed by the project maintainers, and any necessary feedback or changes will be discussed with you. We appreciate your help in making Feline better!
 
 ## 🔐 License
 
